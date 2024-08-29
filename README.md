@@ -1,4 +1,5 @@
-## Video Classification 
+## Video Classification
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranayLendave/video_classification/blob/main/trained_movinets_notebook.ipynb)
 
 Video classification is an essential task in computer vision, and this project focuses on utilizing MoViNet models for this purpose. MoViNet models are known for their efficiency and lightweight nature, making them suitable for real-time and resource-constrained applications.
@@ -36,7 +37,7 @@ The notebook requires the installation of the following dependencies:
 To use the notebook, follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Open the "trained_movinets_notebook.ipynb" notebook using Jupyter Notebook or Google Colab.
+2. Open the "movienet.ipynb" notebook using Jupyter Notebook or Google Colab.
 3. Run the notebook cells sequentially, following the provided instructions and comments.
 4. Modify and adapt the code as per your requirements and data.
 
